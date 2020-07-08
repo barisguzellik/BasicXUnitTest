@@ -1,0 +1,9 @@
+C:\Users\baris\source\repos\TestServiceAppXUnit\TestServiceAppXUnit\bin\Debug\netcoreapp3.1\TestServiceAppXUnit.deps.json
+C:\Users\baris\source\repos\TestServiceAppXUnit\TestServiceAppXUnit\bin\Debug\netcoreapp3.1\TestServiceAppXUnit.dll
+C:\Users\baris\source\repos\TestServiceAppXUnit\TestServiceAppXUnit\bin\Debug\netcoreapp3.1\TestServiceAppXUnit.pdb
+C:\Users\baris\source\repos\TestServiceAppXUnit\TestServiceAppXUnit\obj\Debug\netcoreapp3.1\TestServiceAppXUnit.csprojAssemblyReference.cache
+C:\Users\baris\source\repos\TestServiceAppXUnit\TestServiceAppXUnit\obj\Debug\netcoreapp3.1\TestServiceAppXUnit.csproj.CoreCompileInputs.cache
+C:\Users\baris\source\repos\TestServiceAppXUnit\TestServiceAppXUnit\obj\Debug\netcoreapp3.1\TestServiceAppXUnit.AssemblyInfoInputs.cache
+C:\Users\baris\source\repos\TestServiceAppXUnit\TestServiceAppXUnit\obj\Debug\netcoreapp3.1\TestServiceAppXUnit.AssemblyInfo.cs
+C:\Users\baris\source\repos\TestServiceAppXUnit\TestServiceAppXUnit\obj\Debug\netcoreapp3.1\TestServiceAppXUnit.dll
+C:\Users\baris\source\repos\TestServiceAppXUnit\TestServiceAppXUnit\obj\Debug\netcoreapp3.1\TestServiceAppXUnit.pdb
